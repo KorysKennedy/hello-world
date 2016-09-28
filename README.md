@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+i like ice cream
